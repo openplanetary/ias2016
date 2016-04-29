@@ -73,6 +73,15 @@ map2map from=PSP_002387_1985_RED_A_01_ORTHO.cub map=../map_template-CTX.map \
 
 source EDR, going thorugh PDS --> level0 cub --> level1 cub --> level2 cub
 
+for ease https://gist.github.com/aprossi/dac0f38f4991f8da9fcfe3722728ce16
+
+steps:
+* mroctx2isis
+* spiceinit
+* ctxcal
+* ctxevenodd
+* cam2map
+
 ### HRSC
 
 source Level4
