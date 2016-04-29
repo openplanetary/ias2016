@@ -44,6 +44,7 @@ see https://isis.astrogeology.usgs.gov/UserDocs/index.html
 
 ### HiRISE
 
+#### DTM
 source DTM in PDS format, orthoimages in JP2
 
 ```
@@ -51,6 +52,19 @@ pds2isis from=DTEEC_002387_1985_003798_1985_A01.IMG to=DTEEC_002387_1985_003798_
 
 map2map from=DTEEC_002387_1985_003798_1985_A01.cub map=../map_template-CTX.map \
   to=DTEEC_002387_1985_003798_1985_A01.eqc.cub pixres=from
+```
+
+#### Orthoimage(s)
+
+```
+JP2_to_PDS -Input PSP_002387_1985_RED_A_01_ORTHO.JP2 \
+  -LAbel PSP_002387_1985_RED_A_01_ORTHO.LBL \
+  -Output PSP_002387_1985_RED_A_01_ORTHO.IMG
+  
+pds2isis from=PSP_002387_1985_RED_A_01_ORTHO.IMG to=PSP_002387_1985_RED_A_01_ORTHO.cub
+
+map2map from=PSP_002387_1985_RED_A_01_ORTHO.cub map=../map_template-CTX.map \
+  to=PSP_002387_1985_RED_A_01_ORTHO.eqc.cub pixres=from
 ```
 
 ### CTX
