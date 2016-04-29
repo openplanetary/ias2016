@@ -8,7 +8,7 @@ repo that will (hopefully) contain info and training material for a tentative sh
 * Laetitia Le Deit
 * Lauren Edgar
 * Nicolas Mangold
-* 
+
 ## Data
 
 [data.md](data.md)
