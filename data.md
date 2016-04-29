@@ -112,6 +112,7 @@ ls *equ.cub > equlist
 
 automos fromlist=equlist mosaic=ctx_mosaci_jezero.equ.cub
 ```
+<img src="img src="https://farm2.staticflickr.com/1649/26709944605_e975e41cbb_b.jpg" width=200px>
 
 (extraction of label to get the right kernels for VM)
 
