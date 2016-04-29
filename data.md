@@ -45,7 +45,7 @@ see https://isis.astrogeology.usgs.gov/UserDocs/index.html
 ### HiRISE
 
 #### DTM
-source DTM in PDS format, orthoimages in JP2
+source DTM in PDS format, orthoimages in JP2, from http://hirise.lpl.arizona.edu/dtm/dtm.php?ID=PSP_002387_1985
 
 ```
 pds2isis from=DTEEC_002387_1985_003798_1985_A01.IMG to=DTEEC_002387_1985_003798_1985_A01.cub
