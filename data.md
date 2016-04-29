@@ -4,11 +4,15 @@ all data can be downloaded from http://ode.rsl.wustl.edu/mars/index.aspx
 
 ### CTX
 
-* EDR
+EDR from PDS Geosciences Node
+99M D21_035563_1987_XN_18N282W.IMG
+49M F04_037396_1985_XN_18N282W.IMG
+79M P19_008650_1987_XI_18N282W.IMG
 
 ### HiRISE
 
-* DTM and orthoimages
+DTM and orthoimages from University of Arizona
+http://hirise.lpl.arizona.edu/dtm/dtm.php?ID=PSP_002387_1985
 
 ### CRISM
 
@@ -16,7 +20,7 @@ all data can be downloaded from http://ode.rsl.wustl.edu/mars/index.aspx
 
 ### HRSC
 
-* Level4
+Level4 from PDS Geosciences Node (or PSA)
 
 ### MOLA (crop)
 
