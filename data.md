@@ -5,18 +5,24 @@ all data can be downloaded from http://ode.rsl.wustl.edu/mars/index.aspx
 ### CTX
 
 EDR from PDS Geosciences Node
-99M D21_035563_1987_XN_18N282W.IMG
-49M F04_037396_1985_XN_18N282W.IMG
-79M P19_008650_1987_XI_18N282W.IMG
+
+* 99M D21_035563_1987_XN_18N282W.IMG
+* 49M F04_037396_1985_XN_18N282W.IMG
+* 79M P19_008650_1987_XI_18N282W.IMG
 
 ### HiRISE
 
 DTM and orthoimages from University of Arizona
 http://hirise.lpl.arizona.edu/dtm/dtm.php?ID=PSP_002387_1985
 
+* 305M DTEEC_002387_1985_003798_1985_A01.IMG
+* 369M PSP_002387_1985_RED_A_01_ORTHO.JP2
+* 5.3K PSP_002387_1985_RED_A_01_ORTHO.LBL
+
+
 ### CRISM
 
-* TRDR
+TRDR from PDS Geosciences Node
 
 ### HRSC
 
@@ -24,7 +30,7 @@ Level4 from PDS Geosciences Node (or PSA)
 
 ### MOLA (crop)
 
-* MEGDR
+MEGDR from PDS Geosciences Node
 
 ## Map_template
 
