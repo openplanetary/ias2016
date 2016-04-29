@@ -70,3 +70,9 @@ map2map from=PSP_002387_1985_RED_A_01_ORTHO.cub map=../map_template-CTX.map \
 ### CTX
 
 source EDR, going thorugh PDS --> level0 cub --> level1 cub --> level2 cub
+
+### Needed software
+(only ISIS3 provided during short course)
+ISIS3 - https://isis.astrogeology.usgs.gov/documents/InstallGuide/index.html
+PDS_JP2 - http://pirlwww.lpl.arizona.edu/software/PDS_JP2/download.php
+
