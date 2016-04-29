@@ -14,3 +14,6 @@ repo that will (hopefully) contain info and training material for a tentative sh
 [data.md](data.md)
 
 ## Resources
+
+[resources.md](resources.md)
+
