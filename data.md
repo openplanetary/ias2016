@@ -1,11 +1,23 @@
-# Data used during IAS 2016 Short Course
+## Data used during IAS 2016 Short Course
 
-# CTX
+all data can be downloaded from http://ode.rsl.wustl.edu/mars/index.aspx 
 
-# HiRISE
+### CTX
 
-# CRISM
+* EDR
 
-# HRSC
+### HiRISE
 
-# MOLA (crop)
+* DTM and orthoimages
+
+### CRISM
+
+* TRDR
+
+### HRSC
+
+* Level4
+
+### MOLA (crop)
+
+* MEGDR
