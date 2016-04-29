@@ -71,6 +71,17 @@ map2map from=PSP_002387_1985_RED_A_01_ORTHO.cub map=../map_template-CTX.map \
 
 source EDR, going thorugh PDS --> level0 cub --> level1 cub --> level2 cub
 
+### HRSC
+
+source Level4
+
+```
+pds2isis from=h0988_0000_nd4.img to=h0988_0000_nd4.cub
+
+map2map from=h0988_0000_nd4.cub map=../map_template-CTX.map \
+  to=h0988_0000_nd4.eqc.cub pixres=from
+  
+```
 ### Needed software
 (only ISIS3 provided during short course)
 ISIS3 - https://isis.astrogeology.usgs.gov/documents/InstallGuide/index.html
