@@ -46,6 +46,13 @@ see https://isis.astrogeology.usgs.gov/UserDocs/index.html
 
 source DTM in PDS format, orthoimages in JP2
 
+```
+pds2isis from=DTEEC_002387_1985_003798_1985_A01.IMG to=DTEEC_002387_1985_003798_1985_A01.cub
+
+map2map from=DTEEC_002387_1985_003798_1985_A01.cub map=../map_template-CTX.map \
+  to=DTEEC_002387_1985_003798_1985_A01.eqc.cub pixres=from
+```
+
 ### CTX
 
 source EDR, going thorugh PDS --> level0 cub --> level1 cub --> level2 cub
