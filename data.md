@@ -99,6 +99,8 @@ ls *lev2.cub > moslist
 
 automos fromlist=moslist mosaic=ctx_mosaci_jezero.cub
 ```
+<img src="https://farm2.staticflickr.com/1718/26617044272_c3bc74547f_b.jpg" width=200px> 
+
 A bit less dirty:
 
 ```
