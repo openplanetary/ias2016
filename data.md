@@ -124,8 +124,7 @@ catlab from=P19_008650_1987_XI_18N282W.lev1.cub to=P19_008650_1987_XI_18N282W.le
 
 ### HRSC
 
-source Level4
-
+source Level4 Nadir
 ```
 pds2isis from=h0988_0000_nd4.img to=h0988_0000_nd4.cub
 
@@ -136,6 +135,18 @@ maptrim from=h0988_0000_nd4.eqc.cub to=h0988_0000_nd4.eqc.trim.cub \
   minlat=17 maxlat=20.5 minlon=76.3 maxlon=77.9 mode=crop
 ```
 <img src="https://farm2.staticflickr.com/1548/26710150635_b20b073485_b.jpg" width=200px>
+
+source Level4 DA (MOLA-like)
+
+```
+pds2isis from=h0988_0000_da4.img to=h0988_0000_da4.cub
+
+map2map from=h0988_0000_da4.cub to=h0988_0000_da4.eqc.trim.cub \
+  map=h0988_0000_nd4.eqc.trim.cub pixres=from defaultrange=map
+```
+
+<img src="https://farm2.staticflickr.com/1550/26644016391_9801a5ddf6_b.jpg" width=200px>
+
 
 ### Needed software
 (only ISIS3 provided during short course)
