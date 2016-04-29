@@ -132,7 +132,11 @@ pds2isis from=h0988_0000_nd4.img to=h0988_0000_nd4.cub
 map2map from=h0988_0000_nd4.cub map=../map_template-CTX.map \
   to=h0988_0000_nd4.eqc.cub pixres=from
   
+maptrim from=h0988_0000_nd4.eqc.cub to=h0988_0000_nd4.eqc.trim.cub \
+  minlat=17 maxlat=20.5 minlon=76.3 maxlon=77.9 mode=crop
 ```
+<img src="https://farm2.staticflickr.com/1548/26710150635_b20b073485_b.jpg" width=200px>
+
 ### Needed software
 (only ISIS3 provided during short course)
 ISIS3 - https://isis.astrogeology.usgs.gov/documents/InstallGuide/index.html
