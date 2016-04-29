@@ -40,7 +40,9 @@ see https://isis.astrogeology.usgs.gov/UserDocs/index.html
   End_Group
 ```
 
-## Processing steps (for ease during limited time, reproducible though)
+## Processing steps 
+
+some skipped for ease during limited time, reproducible though with info below.
 
 ### HiRISE
 
