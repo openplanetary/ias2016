@@ -92,12 +92,23 @@ steps:
 * ctxevenodd
 * cam2map
 
-Plus, quick & dirty mosaic
+Plus, quick & dirty mosaic:
 
 ```
 ls *lev2.cub > moslist
 
 automos fromlist=moslist mosaic=ctx_mosaci_jezero.cub
+```
+A bit less dirty:
+
+```
+ls F04_037396_1985_XN_18N282W.lev2.cub > holdlist
+
+equalizer fromlist=moslist holdlist=holdlist
+
+ls *equ.cub > equlist
+
+automos fromlist=equlist mosaic=ctx_mosaci_jezero.equ.cub
 ```
 
 (extraction of label to get the right kernels for VM)
