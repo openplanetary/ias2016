@@ -16,5 +16,11 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 
 * [List of tools maintained by PDS Geosciences Node](http://pds-geosciences.wustl.edu/tools/)
 
+## Software
+
+* [USGS ISIS3](https://isis.astrogeology.usgs.gov/documents/InstallGuide/index.html)
+* [Qgis](http://qgis.org/en/site/)
+
+
 ## Additional resources
 * [OpenPlanetary](http://openplanetary.github.io/)
