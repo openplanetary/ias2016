@@ -22,11 +22,31 @@ http://hirise.lpl.arizona.edu/dtm/dtm.php?ID=PSP_002387_1985
 
 ### CRISM
 
-TRDR from PDS Geosciences Node
+TRDR/DDR from PDS Geosciences Node
+
+* 8.2M hrl000040ff_07_de183l_ddr1.img
+* 4.5K hrl000040ff_07_de183l_ddr1.lbl
+* 8.2M hrl000040ff_07_de183s_ddr1.img
+* 4.5K hrl000040ff_07_de183s_ddr1.lbl
+* 257M hrl000040ff_07_if183l_trr3.img
+* 9.3K hrl000040ff_07_if183l_trr3.lbl
+*  63M hrl000040ff_07_if183s_trr3.img
+* 8.5K hrl000040ff_07_if183s_trr3.lbl
+* 572K hrl000040ff_07_ra183l_hkp3.tab
+* 257M hrl000040ff_07_ra183l_trr3.img
+* 9.3K hrl000040ff_07_ra183l_trr3.lbl
+* 572K hrl000040ff_07_ra183s_hkp3.tab
+*  63M hrl000040ff_07_ra183s_trr3.img
+* 8.5K hrl000040ff_07_ra183s_trr3.lbl
+
+Link to PlanetServer - TBA
 
 ### HRSC
 
 Level4 from PDS Geosciences Node (or PSA)
+
+*  43M h0988_0000_da4.img
+* 774M h0988_0000_nd4.img 
 
 ### MOLA (crop)
 
