@@ -92,6 +92,14 @@ steps:
 * ctxevenodd
 * cam2map
 
+Plus, quick & dirty mosaic
+
+```
+ls *lev2.cub > moslist
+
+automos fromlist=moslist mosaic=ctx_mosaci_jezero.cub
+```
+
 ### HRSC
 
 source Level4
