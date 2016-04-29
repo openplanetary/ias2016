@@ -100,6 +100,14 @@ ls *lev2.cub > moslist
 automos fromlist=moslist mosaic=ctx_mosaci_jezero.cub
 ```
 
+(extraction of label to get the right kernels for VM)
+
+```
+catlab from=D21_035563_1987_XN_18N282W.lev1.cub to=D21_035563_1987_XN_18N282W.lev1-label.txt
+catlab from=F04_037396_1985_XN_18N282W.lev1.cub to=F04_037396_1985_XN_18N282W.lev1-label.txt
+catlab from=P19_008650_1987_XI_18N282W.lev1.cub to=P19_008650_1987_XI_18N282W.lev1-label.txt
+```
+
 ### HRSC
 
 source Level4
