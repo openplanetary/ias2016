@@ -50,9 +50,10 @@ Level4 from PDS Geosciences Node (or PSA)
 
 ### MOLA (crop)
 
-MEGDR from PDS Geosciences Node
+MEGDR from PDS Geosciences Node or [USGS](http://astrogeology.usgs.gov/search/details/Mars/GlobalSurveyor/MOLA/Mars_MGS_MOLA_DEM_mosaic_global_463m/cub)
 
-## Map_template
+
+## Map_template (sample)
 
 see https://isis.astrogeology.usgs.gov/UserDocs/index.html
 
@@ -170,6 +171,11 @@ map2map from=h0988_0000_da4.cub to=h0988_0000_da4.eqc.trim.cub \
 
 <img src="https://farm2.staticflickr.com/1550/26644016391_9801a5ddf6_b.jpg" width=200px>
 
+### MOLA MEGDR 
+
+```
+...
+```
 
 ### Needed software
 (only ISIS3 provided during short course)
