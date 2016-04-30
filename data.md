@@ -146,6 +146,8 @@ catlab from=P19_008650_1987_XI_18N282W.lev1.cub to=P19_008650_1987_XI_18N282W.le
 * [lev1 label of F04_037396_1985_XN_18N282W](https://gist.github.com/aprossi/d53722aa4131264d89853505a246d9b7)
 * [lev1 label of P19_008650_1987_XI_18N282W](https://gist.github.com/aprossi/38e5691c058c3e98e6aa0d699b9e3eb0)
 
+minimal set of MRO kernels and related data are on this [list](https://gist.github.com/aprossi/06f56760b1d4adc7730b18fa68bba714) (about 1 Gb, in addition to isis3 base data.
+
 ### HRSC
 
 source Level4 Nadir
@@ -174,7 +176,7 @@ map2map from=h0988_0000_da4.cub to=h0988_0000_da4.eqc.trim.cub \
 ### MOLA MEGDR 
 
 ```
-...
+maptrim from=Mars_MGS_MOLA_DEM_mosaic_global_463m.cub to=Mars_MGS_MOLA_DEM_mosaic_463m.trim.cub minlat=15 maxlat=25 minlon=65 maxlon=80 mode=crop
 ```
 
 ### Needed software
