@@ -39,7 +39,7 @@ TRDR/DDR from PDS Geosciences Node
 *  63M hrl000040ff_07_ra183s_trr3.img
 * 8.5K hrl000040ff_07_ra183s_trr3.lbl
 
-Link to PlanetServer - TBA
+Link to PlanetServer - http://access.planetserver.eu/index.html?&lat=18.51&lon=77.34&range=2e5
 
 ### HRSC
 
