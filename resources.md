@@ -15,6 +15,7 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 ## Tools / web services
 
 * [List of tools maintained by PDS Geosciences Node](http://pds-geosciences.wustl.edu/tools/)
+* [IPDA tool registry](https://planetarydata.org/services/registry)
 
 ## Software
 
