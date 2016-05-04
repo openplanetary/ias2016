@@ -6,7 +6,9 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 
 * [Planetary Data Workshops on PDS Geosciences Node](http://pds-geosciences.wustl.edu/workshops/default.htm)
 * [ESAC Planetary GIS Workshop](https://issues.cosmos.esa.int/psawiki/display/GISWS/ESAC+Planetary+GIS+Workshop+2015+Wiki)
-* 
+* [ISIS3 tutorials](https://isis.astrogeology.usgs.gov/IsisWorkshop/index.php/IsisWorkshop)
+* [ISIS3 support](https://isis.astrogeology.usgs.gov/fixit)
+
 ## Data
 
 * PDS Geosciences NODE(http://ode.rsl.wustl.edu)
