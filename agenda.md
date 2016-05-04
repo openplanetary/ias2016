@@ -1,4 +1,4 @@
-# Agenda IAS 2016 short course in Planetary Remote Sensing
+### Agenda IAS 2016 short course in Planetary Remote Sensing
 
 * 10:00 - Start
 
