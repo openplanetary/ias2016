@@ -11,19 +11,24 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 
 ## Data
 
-* PDS Geosciences NODE(http://ode.rsl.wustl.edu)
+* [PDS Geosciences NODE](http://ode.rsl.wustl.edu)
 * [PSA](http://www.rssd.esa.int/index.php?project=PSA)
-
-## Tools / web services
-
-* [List of tools maintained by PDS Geosciences Node](http://pds-geosciences.wustl.edu/tools/)
-* [IPDA tool registry](https://planetarydata.org/services/registry)
 
 ## Software
 
 * [USGS ISIS3](https://isis.astrogeology.usgs.gov/documents/InstallGuide/index.html)
 * [Qgis](http://qgis.org/en/site/)
 
+## Tools / web services
+
+* [List of tools maintained by PDS Geosciences Node](http://pds-geosciences.wustl.edu/tools/)
+* [IPDA tool registry](https://planetarydata.org/services/registry)
+
+* [Processing-on-the-Web (USGS POW)](http://astrocloud.wr.usgs.gov/index.php?view=pow): runs on demand isis, gdal tasks remotely and delivers processed/mosaicked data as download.
+
+* [JMars](http://jmars.mars.asu.edu): Open Source Planetary GIS
+* [PlanetServer](planetserver.eu): provides online data access analytics (NASA MRO CRISM)
+* [e-Mars](http://e-mars.geologie-lyon.fr): provides on-demand stereo capabilities + Web GIS map access.
 
 ## Additional resources
 * [OpenPlanetary](http://openplanetary.github.io/)
