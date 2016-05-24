@@ -9,6 +9,13 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 * [ISIS3 tutorials](https://isis.astrogeology.usgs.gov/IsisWorkshop/index.php/IsisWorkshop)
 * [ISIS3 support](https://isis.astrogeology.usgs.gov/fixit)
 
+### Data Workshops
+
+* [List of data workshops at PDS Geosciences Node](http://geo.pds.nasa.gov/workshops/default.htm)
+    * [ChemCam data workshop 2015](http://geo.pds.nasa.gov/workshops/ChemCam_Workshop_Mar15.htm)
+    * [CRISM data workshop 2012](http://geo.pds.nasa.gov/workshops/CRISM_workshop_Mar12.htm)
+    * [HRSC data workshop 2008](http://geo.pds.nasa.gov/workshops/MEX_WORKSHOP_MAY08.htm)
+
 ## Data
 
 * [PDS Geosciences NODE](http://ode.rsl.wustl.edu)
