@@ -8,7 +8,8 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 * [ESAC Planetary GIS Workshop](https://issues.cosmos.esa.int/psawiki/display/GISWS/ESAC+Planetary+GIS+Workshop+2015+Wiki)
 * [ISIS3 tutorials](https://isis.astrogeology.usgs.gov/IsisWorkshop/index.php/IsisWorkshop)
 * [ISIS3 support](https://isis.astrogeology.usgs.gov/fixit)
-
+* [USGS GIS Tutorials](http://astrogeology.usgs.gov/facilities/mrctr/gis-tutorials)
+* 
 ### Data Workshops
 
 * [List of data workshops at PDS Geosciences Node](http://geo.pds.nasa.gov/workshops/default.htm)
@@ -36,6 +37,8 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 * [JMars](http://jmars.mars.asu.edu): Open Source Planetary GIS
 * [PlanetServer](planetserver.eu): provides online data access analytics (NASA MRO CRISM)
 * [e-Mars](http://e-mars.geologie-lyon.fr): provides on-demand stereo capabilities + Web GIS map access.
+
+*[USGS OGC WMS](http://astrowebmaps.wr.usgs.gov/webmapatlas/Layers/maps.html): WMS layers from USGS
 
 ## Additional resources
 * [OpenPlanetary](http://openplanetary.github.io/)
