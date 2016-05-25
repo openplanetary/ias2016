@@ -9,7 +9,7 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 * [ISIS3 tutorials](https://isis.astrogeology.usgs.gov/IsisWorkshop/index.php/IsisWorkshop)
 * [ISIS3 support](https://isis.astrogeology.usgs.gov/fixit)
 * [USGS GIS Tutorials](http://astrogeology.usgs.gov/facilities/mrctr/gis-tutorials)
-* 
+
 ### Data Workshops
 
 * [List of data workshops at PDS Geosciences Node](http://geo.pds.nasa.gov/workshops/default.htm)
