@@ -31,6 +31,7 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 
 * [List of tools maintained by PDS Geosciences Node](http://pds-geosciences.wustl.edu/tools/)
 * [IPDA tool registry](https://planetarydata.org/services/registry)
+* [GIS tools at USGS Astrogeology](http://astrogeology.usgs.gov/facilities/mrctr/gis-tools)
 
 * [Processing-on-the-Web (USGS POW)](http://astrocloud.wr.usgs.gov/index.php?view=pow): runs on demand isis, gdal tasks remotely and delivers processed/mosaicked data as download.
 
