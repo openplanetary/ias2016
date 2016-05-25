@@ -39,7 +39,7 @@ to be migrated / integrated onto [OpenPlanetary resource inventory](https://gith
 * [PlanetServer](planetserver.eu): provides online data access analytics (NASA MRO CRISM)
 * [e-Mars](http://e-mars.geologie-lyon.fr): provides on-demand stereo capabilities + Web GIS map access.
 
-*[USGS OGC WMS](http://astrowebmaps.wr.usgs.gov/webmapatlas/Layers/maps.html): WMS layers from USGS
+* [USGS OGC WMS](http://astrowebmaps.wr.usgs.gov/webmapatlas/Layers/maps.html): WMS layers from USGS
 
 ## Additional resources
 * [OpenPlanetary](http://openplanetary.github.io/)
