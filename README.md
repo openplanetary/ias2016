@@ -1,6 +1,6 @@
 # ias2016
 
-repo that will (hopefully) contain info and training material for a tentative short course in ~ planetary Geology at  IAS 2006 
+This repo contains info and training material from the [http://openplanetary.github.io/ias2016/](short course inplanetary Remote Sensing) at [https://www.sedimentologists.org/ims2016](IAS 2006). 
 
 ## Instructors
 
@@ -8,6 +8,7 @@ repo that will (hopefully) contain info and training material for a tentative sh
 * Laetitia Le Deit
 * Lauren Edgar
 * Nicolas Mangold
+* Ralph Lorenz
 
 ## Data
 
