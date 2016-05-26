@@ -3,10 +3,10 @@
 * 10:00 - Start
 
   * 10:00 - 10:15 - Introduction (APR, LLD, RL)
-  * 10:15 - 11:00 - Sedimentology on Mars as viewed from orbital missions (LLD)
-  * 11:00 - 11:30 - Rover "fieldwork" (LE)
+  * 10:15 - 10:45 - Sedimentology on Mars as viewed from orbital missions (LLD)
+  * 10:45 - 11:15 - Rover "fieldwork" (LE)
 
-* 11:00 - 11:30 - Break / Discussion
+* 11:15 - 11:30 - Break / Discussion
 
   * 11:30 - 12:00 - Planetary data processing, web services (APR)
   * 12:00 - 12:45 - Crater counting (NM)
