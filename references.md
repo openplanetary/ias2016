@@ -1,6 +1,6 @@
 ### Suggested (accessible) references
 
-#### Mars ROVER exploratin
+#### Mars ROVER exploration
 
 Crumpler, L.S., Squyres, S.W., Arvidson, R.E., J. F. Bell, Blaney, D., Cabrol, N.A., Christensen, P.R., DesMarais, D.J., Farmer, J.D., Fergason, R., et al. (2005). Mars Exploration Rover Geologic traverse by the Spirit rover in the Plains of Gusev Crater, Mars. Geology 33, 809–812.
 
