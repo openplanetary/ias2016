@@ -67,7 +67,7 @@ see https://isis.astrogeology.usgs.gov/UserDocs/index.html
     PolarRadius        = 3396190.0 <meters>
     LatitudeType       = Planetocentric
     LongitudeDirection = PositiveEast
-    LongitudeDomain    = 360
+    LongitudeDomain    = 180
   End_Group
 ```
 
